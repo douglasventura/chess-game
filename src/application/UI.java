@@ -55,7 +55,7 @@ public class UI {
       }
       System.out.println();
     }
-    System.out.println("  A B C D E F G H");
+    System.out.println("  a b c d e f g h");
   }
 
   private static void printPiece(ChessPiece piece) {
